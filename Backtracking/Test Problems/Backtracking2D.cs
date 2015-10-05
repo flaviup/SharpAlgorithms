@@ -1,4 +1,9 @@
-﻿using System;
+﻿
+// Flaviu Pasca
+// flaviup @ gmail.com
+// (C) 2015
+
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 
